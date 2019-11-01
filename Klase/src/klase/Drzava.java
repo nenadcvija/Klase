@@ -5,8 +5,7 @@ public class Drzava {
 	private String imeDrzave;
 	private int brojStanovnika;
 	private double povrsina;
-	
-	
+
 	public String getImeDrzave() {
 		return imeDrzave;
 	}
@@ -26,8 +25,4 @@ public class Drzava {
 		this.povrsina = povrsina;
 	}
 	
-	
-	
-	
-
 }
